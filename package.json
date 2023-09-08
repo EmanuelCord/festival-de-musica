@@ -10,17 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/EmanuelCord/festival-de-musica.git"
   },
-
-
-  "keywords": [ 
-   "Sass",
-   "Gulp"
+  "keywords": [
+    "Sass",
+    "Gulp"
   ],
-
   "author": "Emanuel Cordova",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/EmanuelCord/festival-de-musica/issues"
   },
-  "homepage": "https://github.com/EmanuelCord/festival-de-musica#readme"
+  "homepage": "https://github.com/EmanuelCord/festival-de-musica#readme",
+  "dependencies": {
+    "sass": "^1.66.1"
+  }
 }
