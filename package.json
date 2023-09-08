@@ -4,7 +4,7 @@
   "description": "Proyecto con Gulp, Sass y Html",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass --watch src/scss:build/css"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   "author": "Emanuel Cordova",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "sass": "^1.66.1"
   }
 }
